@@ -1,5 +1,5 @@
-# C# Module for 2Captcha API
-The easiest way to quickly integrate [2Captcha] into your code to automate solving of any types of captcha.
+# C# Module for CAPTCHAs.IO API
+The easiest way to quickly integrate [CAPTCHAs.IO] into your code to automate solving of any types of captcha.
 
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -36,7 +36,7 @@ solver.PollingInterval = 10;
 
 |Option|Default value|Description|
 |---|---|---|
-|softId|-|your software ID obtained after publishing in [2captcha sofware catalog]|
+|softId|-|your software ID obtained after publishing in [CAPTCHAs.IO sofware catalog]|
 |callback|-|URL of your web-sever that receives the captcha recognition result. The URl should be first registered in [pingback settings] of your account|
 |defaultTimeout|120|Polling timeout in seconds for all captcha types except ReCaptcha. Defines how long the module tries to get the answer from `res.php` API endpoint|
 |recaptchaTimeout|600|Polling timeout for ReCaptcha in seconds. Defines how long the module tries to get the answer from `res.php` API endpoint|
@@ -46,7 +46,7 @@ solver.PollingInterval = 10;
 To get the answer manually use [getResult method](#send--getresult)
 
 ## Solve captcha
-When you submit any image-based captcha use can provide additional options to help 2captcha workers to solve it properly.
+When you submit any image-based captcha use can provide additional options to help CAPTCHAs.IO workers to solve it properly.
 
 ### Captcha options
 |Option|Default Value|Description|
