@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github\\2captcha-csharp\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
+      "projectUniqueName": "D:\\github\\CSharp-SDK\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
       "projectName": "TwoCaptcha.Examples",
-      "projectPath": "D:\\github\\2captcha-csharp\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
+      "projectPath": "D:\\github\\CSharp-SDK\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
       "packagesPath": "C:\\Users\\GLENN\\.nuget\\packages\\",
-      "outputPath": "D:\\github\\2captcha-csharp\\TwoCaptcha.Examples\\obj\\",
+      "outputPath": "D:\\github\\CSharp-SDK\\TwoCaptcha.Examples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\github\\2captcha-csharp\\TwoCaptcha\\TwoCaptcha.csproj": {
-              "projectPath": "D:\\github\\2captcha-csharp\\TwoCaptcha\\TwoCaptcha.csproj"
+            "D:\\github\\CSharp-SDK\\TwoCaptcha\\TwoCaptcha.csproj": {
+              "projectPath": "D:\\github\\CSharp-SDK\\TwoCaptcha\\TwoCaptcha.csproj"
             }
           }
         }
@@ -87,7 +87,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

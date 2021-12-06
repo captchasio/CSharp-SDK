@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cy/frKVHb/6z2XvWugT72Q+XK5DvMdJ2XkPVzNkervV54ll0uS8eut/Njk4zTRc4WlEBBHPKjoUklWjPJcBkwA==",
+  "dgSpecHash": "rIJyIqJN9av8qX7nV4JVZkamHcWaSQ143q3ScG3rYJol1yvAC/5NkQoeDlSanWULwTZqEcEfZuTJhTd611B45g==",
   "success": true,
-  "projectFilePath": "D:\\github\\2captcha-csharp\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
+  "projectFilePath": "D:\\github\\CSharp-SDK\\TwoCaptcha.Examples\\TwoCaptcha.Examples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

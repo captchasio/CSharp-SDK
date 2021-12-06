@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS2K7vPSgzZj53VKGrDvDBZvFoJFRyo6qgBNSoOuXqszkDmmI03CXZmXC7UWdo0SOnkqMW3ykjrY7FSpL2aJHw==",
+  "dgSpecHash": "jYY9OLh+Gngxzzmr5ccus4PJ2vFttPEU22GPDul449UpuAejRVP1yQEl8iBooccTWDwMpHQYUCXN1qvmJ67DWA==",
   "success": false,
-  "projectFilePath": "D:\\github\\2captcha-csharp\\TwoCaptcha.Tests\\TwoCaptcha.Tests.csproj",
+  "projectFilePath": "D:\\github\\CSharp-SDK\\TwoCaptcha.Tests\\TwoCaptcha.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GLENN\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\GLENN\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
